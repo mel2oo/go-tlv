@@ -1,3 +1,3 @@
 module github.com/mel2oo/go-tlv
 
-go 1.18
+go 1.17
